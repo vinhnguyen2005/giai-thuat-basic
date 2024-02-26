@@ -3,9 +3,7 @@
 #include <math.h>
 #include <string.h>
 #include <ctype.h>
-/* CAC SO XUAT HIEN TRONG MANG
-INPUT: 1 2 3 3 3 3 1 9 9 0
-OUTPUT: 1 2 3 9 0
+/* Tan so xuat hien của số trong mang
 */
 int main() {
     int n;
